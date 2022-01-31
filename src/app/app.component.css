@@ -1,0 +1,9 @@
+.bank{
+    width: 400px;
+    height: 250px;
+    background-color: aqua;
+    margin: 0 auto;
+}
+.but-ton{
+    padding: 50px 20px;
+}
